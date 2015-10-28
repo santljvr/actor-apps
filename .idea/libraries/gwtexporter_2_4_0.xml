@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gwtexporter-2.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.timepedia.exporter/gwtexporter/2.4.0/e40e61910fbddb39b120ad024b276e678b0cc5b2/gwtexporter-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.timepedia.exporter/gwtexporter/2.4.0/6492c1f2e76ef33326d361926b9b0a28e2cc63e/gwtexporter-2.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

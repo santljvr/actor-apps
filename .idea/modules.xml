@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/actor-apps.iml" filepath="$PROJECT_DIR$/actor-apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-android/app-android.iml" filepath="$PROJECT_DIR$/app-android/app-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-cli/app-cli.iml" filepath="$PROJECT_DIR$/app-cli/app-cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-android/core-android.iml" filepath="$PROJECT_DIR$/core-android/core-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-cocoa/core-cocoa.iml" filepath="$PROJECT_DIR$/core-cocoa/core-cocoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-js/core-js.iml" filepath="$PROJECT_DIR$/core-js/core-js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runtime/runtime.iml" filepath="$PROJECT_DIR$/runtime/runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runtime-android/runtime-android.iml" filepath="$PROJECT_DIR$/runtime-android/runtime-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runtime-cocoa/runtime-cocoa.iml" filepath="$PROJECT_DIR$/runtime-cocoa/runtime-cocoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runtime-js/runtime-js.iml" filepath="$PROJECT_DIR$/runtime-js/runtime-js.iml" />
+    </modules>
+  </component>
+</project>
